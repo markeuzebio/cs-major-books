@@ -1,1 +1,2 @@
-# cs-major-books
+# CRAFTING INTERPRETERS (Robert Nystrom)
+https://craftinginterpreters.com/contents.html
